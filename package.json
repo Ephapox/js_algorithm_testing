@@ -1,0 +1,15 @@
+{
+  "name": "algorithms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "alg.js",
+  "scripts": {
+    "test": "mocha alg.test.js -w"
+  },
+  "author": "Samuel Chun <ephapox@gmail.com> (https://github.com/ephapox)",
+  "license": "MIT",
+  "dependencies": {
+    "chai": "3.4.1",
+    "mocha": "2.3.4"
+  }
+}
